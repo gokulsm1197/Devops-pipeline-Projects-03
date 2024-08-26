@@ -3,4 +3,4 @@ replicaCount: 1
 image:
   repository: gokulsm/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "10560420499"
